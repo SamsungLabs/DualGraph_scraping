@@ -1,4 +1,4 @@
-# DualGraph - Scraper for SpecsQA dataset
+# DualGraph - Scraper for SpecsQA Dataset
 
 ## Overview
 
@@ -38,3 +38,8 @@ It should be noted that the scraping code is quite fragile with respect to page 
 4. then product specification tables within product variant pages
 
 should be fairly robust, but minor CSS changes might require tweaking the relevant constants.
+
+## Related Repositories
+
+- **DualGraph_dataset**: Raw scraped data for SpecsQA dataset - https://github.com/SamsungLabs/DualGraph_dataset
+- **DualGraph**: Main project including raw data preprocessing and evaluation code - https://github.com/SamsungLabs/DualGraph
