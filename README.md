@@ -45,3 +45,8 @@ should be fairly robust, but minor CSS changes might require tweaking the releva
 
 - **DualGraph_dataset**: Raw scraped data for SpecsQA dataset - https://github.com/SamsungLabs/DualGraph_dataset
 - **DualGraph**: Main project including raw data preprocessing and evaluation code - https://github.com/SamsungLabs/DualGraph
+
+
+## License
+
+This project is licensed under the terms of the MIT license. See [LICENSE](./LICENSE.md) for details.
